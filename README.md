@@ -1,6 +1,6 @@
 - 👋 Hi, I’m habib ouahbi "@lhabibouahbi"
 
-https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg
+https://marcochiesa.files.wordpress.com/2020/12/f_logo_rgb-hex-blue_512.png
 
 <!---
 lhabibouahbi/lhabibouahbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
